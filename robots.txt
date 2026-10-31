@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://simple-minds-studios.github.io/still-here/sitemap.xml
